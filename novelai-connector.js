@@ -13,7 +13,9 @@ const NovelAIConnector = {
 
     // 可用模型
     MODELS: [
-        { id: 'nai-diffusion-4-5-full', name: 'NAI Diffusion V4.5 Full (最新)' },
+        { id: 'nai-diffusion-5-full', name: 'NAI Diffusion V5 Full (最新)' },
+        { id: 'nai-diffusion-5-curated', name: 'NAI Diffusion V5 Curated' },
+        { id: 'nai-diffusion-4-5-full', name: 'NAI Diffusion V4.5 Full' },
         { id: 'nai-diffusion-4-5-curated', name: 'NAI Diffusion V4.5 Curated' },
         { id: 'nai-diffusion-4-curated-preview', name: 'NAI Diffusion V4 Curated' },
         { id: 'nai-diffusion-4-full', name: 'NAI Diffusion V4 Full' },
