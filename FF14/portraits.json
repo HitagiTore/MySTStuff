@@ -1,1 +1,6 @@
-
+{
+  "charPortraits": {
+    "顾清寒": "https://i.postimg.cc/pTZmSw9Y/gqh1.png|https://i.postimg.cc/FRZY6Mfb/gqh2.png|https://i.postimg.cc/G2Q4fWBy/gqh3.png|https://i.postimg.cc/0Qfz4T6S/gqh4.png|https://i.postimg.cc/503XrhHL/gqh5.png|https://i.postimg.cc/rmJDHBdW/gqh6.png",
+    "玉面": "https://i.postimg.cc/63L3TVvY/ym1.png|https://i.postimg.cc/bJHJd0tL/ym2.png|https://i.postimg.cc/ydXdWhZm/ym3.png|https://i.postimg.cc/RFQFq1HT/ym4.png|https://i.postimg.cc/ZRFR0PdP/ym5.png|https://i.postimg.cc/cHMH67nf/ym6.png",
+  }
+}
